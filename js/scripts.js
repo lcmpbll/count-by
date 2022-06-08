@@ -1,8 +1,8 @@
 //business logic
 function countingBy(countBy, countTo) {
 	let total = 0;
-	for(let index = 0; index <= countTo; index += 1){
-		total += index;
+	for(let index = 0; total + countBy <= countTo ; index += 1){
+		total += countBy;
 	}
 	return total;
 }
