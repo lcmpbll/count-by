@@ -1,10 +1,11 @@
 # _New Project_
 
 #### By _**Liam Campbell_
+### by_**Mo Byrne_
 
 #### _{Brief description of application}_
 
-![A cartoon image of people voting](img/vote.jpeg)
+![Numbers adding](img/add.jpeg)
 
 ## Technologies Used
 
