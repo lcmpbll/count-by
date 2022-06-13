@@ -14,7 +14,7 @@ function countingBy(countBy, countTo) {
 //UI logic
 $(document).ready(function() {
 $("form#formOne").submit(function(event){
-	event.preventDefault;
+	event.preventDefault();
   $("#results").show();
 	const countBy = parseInt($("#countingBy").val());
 	const countTo = parseInt($("#countingTo").val());
