@@ -8,9 +8,6 @@ function countingBy(countBy, countTo) {
 	return countingArray;
 }
 
-
-
-
 //UI logic
 $(document).ready(function() {
 $("form#formOne").submit(function(event){
@@ -20,6 +17,8 @@ $("form#formOne").submit(function(event){
 	const countTo = parseInt($("#countingTo").val());
 	const results = countingBy(countBy, countTo);
 	$("#results").append(results.join(" ") + "<br>");
+	$("span.to").text(countTo);
+	$("span.by").text(countBy);
 
 	});
 });

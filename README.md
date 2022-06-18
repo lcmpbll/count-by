@@ -21,7 +21,7 @@ _This webpage can take input from a user to count up to a the inputted number by
 
 ## Setup/Installation Requirements
 
-* _Clone the git repository github.com/lcmpbll/voter.git to your desktop_
+* _Clone the git repository github.com/lcmpbll/count-by.git to your desktop_
 * _Navigate to the top level of the directoy._
 * _Open index.html in your browser._
 * _easy-to-understand_
