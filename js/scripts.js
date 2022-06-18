@@ -19,7 +19,7 @@ $("form#formOne").submit(function(event){
 	const countBy = parseInt($("#countingBy").val());
 	const countTo = parseInt($("#countingTo").val());
 	const results = countingBy(countBy, countTo);
-	$("#results").append(results + "<br>");
+	$("#results").append(results.join(" ") + "<br>");
 
 	});
 });

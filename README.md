@@ -1,9 +1,9 @@
 # _New Project_
 
-#### By _**Liam Campbell_
-### by_**Mo Byrne_
+#### By _Liam Campbell_
+### by_Mo Byrne_
 
-#### _{Brief description of application}_
+#### _This webpage can count up to any number by any number_
 
 ![Numbers adding](img/add.jpeg)
 
@@ -17,7 +17,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This webpage can take input from a user to count up to a the inputted number by increments of a second inputted number. It will out put all the numbers that come in between while not going over the count to total. _
 
 ## Setup/Installation Requirements
 
