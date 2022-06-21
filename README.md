@@ -17,11 +17,11 @@
 
 ## Description
 
-_This webpage can take input from a user to count up to a the inputted number by increments of a second inputted number. It will out put all the numbers that come in between while not going over the count to total. _
+_This webpage can take input from a user to count up to a the inputted number by increments of a second inputted number. It will out put all the numbers that come in between while not going over the count to total._
 
 ## Setup/Installation Requirements
 
-* _Clone the git repository github.com/lcmpbll/count-by.git to your desktop_
+* _Clone the git repository github.com/lcmpbll/count-by to your desktop_
 * _Navigate to the top level of the directoy._
 * _Open index.html in your browser._
 
@@ -31,7 +31,7 @@ _This webpage can take input from a user to count up to a the inputted number by
 
 ## Known Bugs
 
-* NA
+* If too large of a number is chosen, it may not compute.
 
 ## License
 
